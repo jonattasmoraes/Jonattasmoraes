@@ -11,4 +11,4 @@
 
 ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonattasmoraes&show_icons=true&locale=en&layout=compact&theme=radical" alt="tainá galvão" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonattasmoraes&show_icons=true&locale=en&layout=compact&theme=radical" alt="jon moraes" /></p>
