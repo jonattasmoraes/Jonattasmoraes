@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <div>
-  <a href="https://github.com/jonattasmoraes">
-  <img height="188cm" src="https://github-readme-stats.vercel.app/api?username=jonattasmoraes"/>
-  <img height="188cm" src="https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonattasmoraes"/>
+  <a href="https://github.com/jonattasmoraes/github-readme-stats">
 </div>
