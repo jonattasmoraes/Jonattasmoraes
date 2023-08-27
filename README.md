@@ -1,4 +1,4 @@
-## Hey eu sou a Jônattas Morars, estudante de programação e futuro desenvolvedor Full Stack Java!
+## Hey! eu sou Jônattas Morars, estudante de programação e futuro desenvolvedor Full Stack Java!
 
 
 <div style="display: inline_block"><br>
