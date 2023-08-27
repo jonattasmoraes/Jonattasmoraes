@@ -8,3 +8,7 @@
   <img align="center" alt="Jon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+##
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonattasmoraes&show_icons=true&locale=en&layout=compact&theme=radical" alt="tainá galvão" /></p>
