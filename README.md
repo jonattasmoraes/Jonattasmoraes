@@ -1,4 +1,4 @@
-## Hey! eu sou Jônattas Moraes, estudante de programação e futuro desenvolvedor Full Stack!
+## Hey! sou Jônattas Moraes, estudante de programação e futuro desenvolvedor Full Stack!
 
 
 <div style="display: inline_block"><br>
