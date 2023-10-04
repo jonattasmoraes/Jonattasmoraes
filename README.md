@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=header"/>
+
 ## Hey! sou Jônattas Moraes, estudante de programação e futuro desenvolvedor Full Stack!
 
 
@@ -11,3 +13,5 @@
   <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 ##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
