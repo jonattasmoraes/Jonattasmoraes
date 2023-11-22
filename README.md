@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=header"/>
 
 
-Hey! sou Jônattas Moraes, estudante de programação e futuro desenvolvedor Full Stack!
+Hey! me chamo Jônattas Moraes, estudante de programação e futuro desenvolvedor Full Stack!
 
 ## 
 <div align="center">
