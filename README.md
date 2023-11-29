@@ -3,7 +3,7 @@
 <strong>Hello there!<strong/> <br />
 I'm a code enthusiast and future fullstack developer! I'm diving into the world of development, learning and growing with every line of code.
 
-# My Skills:
+## My Skills:
 <div>
   <img align="center" alt="Jon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -16,7 +16,7 @@ I'm a code enthusiast and future fullstack developer! I'm diving into the world 
   <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-# My Status
+## My Status
 
 <div>
   <table style="margin: 0 auto;" align="center">
