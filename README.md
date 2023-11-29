@@ -14,9 +14,9 @@ Hey! me chamo Jônattas Moraes, estudante de programação e futuro desenvolvedo
   <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 <div>
-  <div align="center">
-    ## My Status
-  </div>
+  <h1 align="center">
+    # My Status
+  </h1>
 <div>
   <table style="margin: 0 auto;" align="center">
     <tr>
