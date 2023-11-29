@@ -3,7 +3,7 @@
 <strong>Hello there!<strong/> <br />
 I'm a code enthusiast and future fullstack developer! I'm diving into the world of development, learning and growing with every line of code.
 
-I'm Learning Java and web development(EBAC).
+I'm Learning Java and web development (EBAC).
 
 ## My Skills:
 <div>
