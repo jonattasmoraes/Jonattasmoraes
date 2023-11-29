@@ -15,7 +15,7 @@ Hey! me chamo Jônattas Moraes, estudante de programação e futuro desenvolvedo
   
 <div>
   <div align="center">
-    # My Status
+    ## My Status
   </div>
 <div>
   <table style="margin: 0 auto;" align="center">
