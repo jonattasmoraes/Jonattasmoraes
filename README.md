@@ -1,8 +1,8 @@
+<div>
 # Jônattas Moraes
 
-Hey! me chamo Jônattas Moraes, estudante de programação e futuro desenvolvedor Full Stack!
-
-<div>
+Hello there!
+I'm a code enthusiast and future fullstack developer! I'm diving into the world of development, learning and growing with every line of code.
   <img align="center" alt="Jon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jon-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
