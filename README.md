@@ -14,10 +14,8 @@ I'm a code enthusiast and future fullstack developer! I'm diving into the world 
   <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-<div>
-  <h1 align="center">
-    My Status
-  </h1>
+#My Status
+
 <div>
   <table style="margin: 0 auto;" align="center">
     <tr>
@@ -29,7 +27,6 @@ I'm a code enthusiast and future fullstack developer! I'm diving into the world 
       </td>
     </tr>
   </table>
-</div>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
