@@ -3,6 +3,8 @@
 <strong>Hello there!<strong/> <br />
 I'm a code enthusiast and future fullstack developer! I'm diving into the world of development, learning and growing with every line of code.
 
+I'm Learning Java and web development(EBAC).
+
 ## My Skills:
 <div>
   <img align="center" alt="Jon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
