@@ -32,5 +32,6 @@ I'm Learning Java and web development (EBAC).
     </tr>
   </table>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
+<div>
+  <h2 aligne="center">“The best things happen by chance.” - Dory</h2>
+</div>
