@@ -33,5 +33,5 @@ I'm Learning Java and web development (EBAC).
   </table>
 </div>
 <div>
-  <h2 aligne="center">“The best things happen by chance.” - Dory</h2>
+  <h2 align="center">“The best things happen by chance.” - Dory</h2>
 </div>
