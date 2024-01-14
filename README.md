@@ -7,8 +7,7 @@ I'm Learning Java and web development (EBAC).
 
 ## My Skills:
 <div>
-  [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,vue,react&theme=dark)](https://skillicons.dev)](https://skillicons.dev)
-
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 </div>
 
 ## My Status
