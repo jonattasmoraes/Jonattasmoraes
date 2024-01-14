@@ -8,7 +8,7 @@ I'm Learning Java and web development (EBAC).
 ## My Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,ts,js,html,css,react,nextjs,vue,vite,tailwind,spring,bun,mongodb,postgres,prisma,supabase,redux" />
+    <img src="https://skillicons.dev/icons?i=java,py,ts,js,html,css,react,nextjs,tailwind,spring,bun,mongodb,postgres,prisma,supabase" />
   </a>
 </p>
 
