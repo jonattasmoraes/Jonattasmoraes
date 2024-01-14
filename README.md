@@ -6,9 +6,11 @@ I'm a code enthusiast and future fullstack developer! I'm diving into the world 
 I'm Learning Java and web development (EBAC).
 
 ## My Skills:
-<div>
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## My Status
 
