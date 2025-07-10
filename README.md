@@ -1,9 +1,7 @@
 # Jônattas Moraes
 
 <strong>Hello there!<strong/> <br />
-I'm a code enthusiast and future fullstack developer! I'm diving into the world of development, learning and growing with every line of code.
-
-I'm Learning Java and web development (EBAC).
+I'm a full-stack developer, software architecture enthusiast, and F1 fan — yeah, it's a weird combo 🙃
 
 ## My Skills:
 <p align="center">
