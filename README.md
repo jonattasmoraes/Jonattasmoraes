@@ -26,10 +26,15 @@
 
 ## 📈 Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/jonattasmoraes/convoychat" target="_blank" rel="noopener noreferrer">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonattasmoraes&layout=compact&langs_count=8&card_width=320&theme=tokyonight" alt="Top languages stats" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonattasmoraes&layout=compact&langs_count=8&card_width=320&theme=tokyonight" alt="Top languages stats" />
+  </a>
+
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=jonattasmoraes&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
+
 
 <p align="center"><em>Carpe diem quam minimum credula postero</em></p>
