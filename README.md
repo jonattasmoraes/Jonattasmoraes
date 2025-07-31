@@ -32,8 +32,7 @@
   </a>
 
 <a href="https://git.io/streak-stats">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=jonattasmoraes&theme=buefy-dark&card_width=340" alt="GitHub Streak" />
-</a>
+  <img height="200"  src="https://github-readme-streak-stats.herokuapp.com?user=jonattasmoraes&theme=buefy-dark&short_numbers=true&card_width=300" alt="GitHub Streak" /></a>
 </div>
 
 
