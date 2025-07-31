@@ -1,26 +1,35 @@
-# Jônattas Moraes
+<p align="left">
+  I'm <b>Jonattas Moraes</b>, a Full Stack Developer based in Curitiba, PR – Brazil. I focus on scalable system design and lifelong learning, with a strong appreciation for Clean Code and SOLID principles. Outside of coding, I'm a F1 fan, gamer, and cinema appreciator.
+</p>
 
-<strong>Hello there!<strong/> <br />
-I'm a full-stack developer, software architecture enthusiast, and F1 fan — yeah, it's a weird combo 🙃
-
-## My Skills:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,golang,py,ts,js,html,css,react,nextjs,tailwind,spring,bun,mongodb,postgres,prisma" />
+  Find out more about me &amp; feel free to connect with me here:
+  <br /><br />
+  <a href="https://jon-dev.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/website-FFF?style=for-the-badge&logo=devdotto&logoColor=black" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/jonattas-moraes" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jonattasmoraes@hotmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-## My Status
+<h2>‍💻 Stack</h2>
 
-<div>
-  <table style="margin: 0 auto;" align="center">
-    <tr>
-      <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonattasmoraes&layout=compact&theme=react&count_private=true"/>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=java,golang,py,ts,js,html,css,react,nextjs,tailwind,spring,bun,mongodb,postgres,prisma" alt="Tech Stack" />
+  </a>
+</p>
+
+## 📈 Stats
+
+<div align="center">
+  <a href="https://github.com/jonattasmoraes/convoychat" target="_blank" rel="noopener noreferrer">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonattasmoraes&layout=compact&langs_count=8&card_width=320&theme=tokyonight" alt="Top languages stats" />
+  </a>
 </div>
-<div>
-  <h2 align="center">“The best things happen by chance.” - Dory</h2>
-</div>
+
+<p align="center"><em>Carpe diem quam minimum credula postero</em></p>
