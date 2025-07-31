@@ -32,7 +32,7 @@
   </a>
 
 <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jonattasmoraes&theme=buefy-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonattasmoraes&theme=buefy-dark&short_numbers=true&card_width=340&card_height=200" alt="GitHub Streak" />
 </a>
 </div>
 
