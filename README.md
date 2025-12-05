@@ -31,8 +31,10 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonattasmoraes&layout=compact&langs_count=8&card_width=320&theme=tokyonight" alt="Top languages stats" />
   </a>
 
+  <!--https://github-readme-streak-stats.herokuapp.com?user=jonattasmoraes&theme=buefy-dark&card_width=340-->
+
 <a href="https://git.io/streak-stats">
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=jonattasmoraes&theme=buefy-dark&card_width=340" alt="GitHub Streak" />
+  <img height="190" src="https://neo-tawny-xi.vercel.app/api/commits-card?username=jonattasmoraes&theme=monokai" alt="GitHub Streak" />
 </a>
 </div>
 
