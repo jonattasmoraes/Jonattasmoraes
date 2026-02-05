@@ -8,9 +8,9 @@
   <a href="https://jon-dev.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/website-FFF?style=for-the-badge&logo=devdotto&logoColor=black" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/jonattas-moraes" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="https://www.linkedin.com/in/jonattas-moraes" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> -->
   <a href="mailto:jonattasmoraes@hotmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
